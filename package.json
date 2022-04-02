@@ -1,0 +1,22 @@
+{
+  "name": "gameserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mastergamer433/GameServer.git"
+  },
+  "keywords": [
+    "Server"
+  ],
+  "author": "Mastergamer433",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Mastergamer433/GameServer/issues"
+  },
+  "homepage": "https://github.com/Mastergamer433/GameServer#readme"
+}
